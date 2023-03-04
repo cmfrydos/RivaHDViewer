@@ -1,0 +1,23 @@
+Credits an
+
+	Hendrik, der es mit seinem Tool NLTPacker ermöglichte,
+	überhaupt in die Spielarchive reinzukommen:
+	https://www.crystals-dsa-foren.de/showthread.php?tid=1751&pid=80365#pid80365
+
+	Helios, der ein Skript zum Entpacken der internen
+	BoPa Komprimierung geschrieben hat:
+	https://www.crystals-dsa-foren.de/showthread.php?tid=700&pid=127013&highlight=BoPa#pid127013
+
+	Shihan, der viele Rätsel um die Grafikformate lösen konnte,
+	und hier zusammengetragen hat:
+	https://github.com/shihan42/BrightEyesWiki/wiki/DUNGEON.ALF
+
+	Henne, der so unglaublich viel Mühe und Zeit in das Reverse Engineering der NLT gesteckt hat,
+	und mit BrightEyes tiefe Einblicke in die Funktionsweise der Spiele gegeben hat:
+	https://github.com/Henne/Bright-Eyes
+	
+	Und alle anderen fleißigen Tüftler, die in der Technischen Werkstatt 
+	der Crystals-DSA-Foren viele Infos zusammengetragen haben:
+	https://www.crystals-dsa-foren.de/forumdisplay.php?fid=34
+	
+	

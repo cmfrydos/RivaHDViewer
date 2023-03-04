@@ -1,0 +1,37 @@
+Tastaturbelegung:
+
+ Allgemein:
+  ESC  | Strg+C      : Programm schließen
+  F11  | Alt+ENTER   : Vollbildmodus aktivieren oder deaktivieren
+
+ Levelauswahl:
+  ENTER		         : Auswahl eines spezifischen Levels: 
+				       Hiermit wird eine Liste aller vorhandenen Level angezeigt. 
+				       Die entsprechende Zahl eingeben, und mit einem erneuten ENTER bestätigen.	
+  LEERTASTE          : Damit kann man nacheinander durch die Level springen
+  
+  Bewegung:
+   W                 : Vorwärts gehen
+   S                 : Rückwärts gehen
+   Linke Pfeiltaste  : Nach links gehen
+   Rechte Pfeiltaste : Nach rechts gehen
+   Q                 : Nach oben fliegen
+   E                 : Nach unten fliegen
+   Umschalttaste     : Gedrückt halten zum Sprinten
+   
+  Umschauen
+   A                 : Nach links drehen
+   D                 : Nach rechts drehen
+   Pfeiltaste Oben   : Nach oben drehen
+   Pfeiltaste Unten  : Nach unten drehen
+   R                 : In die Horizontale blicken
+   Rechte Maustaste  : Gedrückt halten, um die Kamera mit der Maus zu steuern
+   
+   Man bewegt sich immer in Blickrichtung, und fliegt durch die Welt,
+   da es noch keine Kollision gibt. 
+   Auf manchen Karten wird man beim Reinladen weit weg von allen Objekten platziert,
+   und blickt erst einmal ins Schwarze. Hier hilft es sich mit der Maus umzugucken.
+   
+   
+
+

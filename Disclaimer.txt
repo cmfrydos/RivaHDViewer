@@ -1,0 +1,5 @@
+Bei Attic Entertainment Software liegen alle Rechte zu den dargestellten Modellen, Texturen und Leveldesigns.
+
+Das Programm ist hauptsächlich als Tool zu weiterem Erkenntnisgewinn beim Reverse-Engineering der Nordlandtrilogie gedacht.
+Es befindet sich in einem sehr frühen Alpha-Stadium, und wird gegebenenfalls in den nächsten Jahren weiterentwickelt.
+Ich übernehme keine Haftung für Schäden, die durch den HDViewer entstehen könnten. Benutzung auf eigene Gefahr!
